@@ -16,6 +16,11 @@ Simplify the process of managing loans related to agriculture activities. Keep t
 ### 4. Agriculture Instrument Tracking
 Effectively manage and track agriculture-related instruments. Whether it's machinery, tools, or equipment, RM Trader helps you monitor usage, maintenance, and replacement.
 
+## Screenshot
+
+![Features Screenshot](https://i.postimg.cc/T38P2gfH/rm-9688ff05.png)
+
+
 ## Technologies Used
 
 - **React Native**: The app is developed using the popular cross-platform framework for building mobile applications.
