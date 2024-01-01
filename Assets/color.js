@@ -1,0 +1,6 @@
+export const primaryColor = "#558b2f"
+export const primaryColorDark = "#255d00"
+export const appBarColor = "white"
+export const searchBarColor = "#f5f5f5"
+export const blue = "#00c853"
+export const green = "#c5e1a5"
