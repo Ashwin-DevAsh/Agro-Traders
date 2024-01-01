@@ -20,6 +20,24 @@ Effectively manage and track agriculture-related instruments. Whether it's machi
 
 ![Features Screenshot](https://i.postimg.cc/T38P2gfH/rm-9688ff05.png)
 
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Ashwin-DevAsh/Rm-Traders
+cd Rm-Traders
+```
+
+3. Install Dependencies
+```bash
+npm install
+```
+
+4. Run the Application
+```bash
+npx react-native run-android
+```
+
 
 ## Technologies Used
 
