@@ -1,6 +1,6 @@
-# RM Trader - Agriculture Management Mobile App
+# Agro Traders - Agriculture Management Mobile App
 
-RM Trader is a robust mobile application developed in React Native that serves as a comprehensive solution for agriculture traders. The app is designed to streamline various aspects of agriculture management, including labor salary management, agriculture product tracking, loan tracking, and agriculture-related instrument tracking.
+Agro Traders is a robust mobile application developed in React Native that serves as a comprehensive solution for agriculture traders. The app is designed to streamline various aspects of agriculture management, including labor salary management, agriculture product tracking, loan tracking, and agriculture-related instrument tracking.
 
 ## Features
 
@@ -24,7 +24,7 @@ Effectively manage and track agriculture-related instruments. Whether it's machi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Ashwin-DevAsh/Rm-Traders
+git clone https://github.com/Ashwin-DevAsh/Agro-Traders
 cd Rm-Traders
 ```
 
